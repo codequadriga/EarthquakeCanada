@@ -54,9 +54,7 @@
 click here for more info</a>
 </p>
 
-
 Team Members
-
 ================
 <ul>
   <li>Punit Shah (https://github.com/punitshah89)</li>
@@ -64,4 +62,4 @@ Team Members
   <li>Sanjay Kapur</li>
   <li>Bhanu Chander Reddy</li>
 </ul>
-
+</div>
